@@ -1,4 +1,4 @@
-- hosts: 52.188.53.5
+- hosts: all
 
   tasks:
     - name: apt-get update
