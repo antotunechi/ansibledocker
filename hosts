@@ -1,0 +1,6 @@
+52.188.53.5 
+
+[all:vars]
+ansible_connection=ssh
+ansible_user=antotunechi 
+ansible_password=DJScrewmane1993
