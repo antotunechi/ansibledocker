@@ -3,4 +3,3 @@
 [debian:vars]
 ansible_user=azureuser
 ansible_ssh_private_key_file=/home/vsts/work/r1/a/_antotunechi_ansibledocker/d_key.pem
-host_key_checking = false
