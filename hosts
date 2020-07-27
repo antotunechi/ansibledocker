@@ -1,6 +1,5 @@
-[ubuntu]
-52.188.53.5
-[ubuntu:vars]
-ansible_user=antotunechi
-ansible_password=DJScrewmane1993
+[debian]
+137.117.94.92
+[debian:vars]
+ansible_ssh_private_key_file=/home/vsts/work/r1/a/_antotunechi_ansibledocker/d_key.pem
 host_key_checking = false
